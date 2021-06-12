@@ -4,8 +4,7 @@ The project determines the density of dust particles in the air using a sensor. 
 #### Requirements      
 - Arduino, Arduino IDE
 - GP2Y1014AU0F Dust Sensor
-- ESP8266
-- micro drip irrigation sysytem
+- ESP8266     
 #### Approach     
 - The dust sensor used IR LED to measure the intensity of light scattered by the dust particles. The more the dust particles greater is the scattering.
 - This intensity which is recorded is converted into a voltage signal which is further converted in terms of dust density.
