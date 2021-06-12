@@ -1,6 +1,6 @@
 ## Smart Wristband
 #### Aim 
-Constantly touching the face with hands can tranfer harmful bacteria into our body. The wristband alerts when the hand is in contact with the mouth, nose or eyes. The watch
+Constantly touching the face with hands can transfer harmful bacteria into our body. The wristband alerts when the hand is in contact with the mouth, nose or eyes. The watch
 vibrates upon sensing this action.
 #### Requirements      
 - Arduino IDE
